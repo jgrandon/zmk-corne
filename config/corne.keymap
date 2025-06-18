@@ -7,7 +7,7 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
-#include <config/keys_es_latin_american.h>
+#include "config/keys_es_latin_american.h"
 
 
 / {
